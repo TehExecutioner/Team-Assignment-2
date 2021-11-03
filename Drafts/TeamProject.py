@@ -1,7 +1,7 @@
 # Jaime S
 # 11/2/2021
 # Team Members: Jaime S & Noah M.
-# This is a program that will take a number input and guess a randomly generated number
+# This is a program that will take the number input (guess) and will randomly generate a number (guess)
 # (player will have the option to guess higher or lower)
 def guessing_game():
     import random
